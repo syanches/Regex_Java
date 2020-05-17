@@ -2,4 +2,4 @@ language: java
 jdk:
   - oraclejdk9
 os: osx
-script: mvn clean package
+script: echo "abc"
