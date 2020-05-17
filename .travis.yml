@@ -1,2 +1,5 @@
 language: java
-os:  osx
+jdk:
+  - oraclejdk8
+
+script: ant build
